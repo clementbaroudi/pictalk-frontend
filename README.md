@@ -8,7 +8,7 @@
 # ➤ Pictalk
 
 > PicTalk is all about
->  **pictograms** . It's purpose is to make the life of
+>  **pictograms**  . It's purpose is to make the life of
 >  **speech-disabled** persons
 >  **easier**. My little brother, Pablo, has
 >  the down syndrome. He **isn't able to speak** nor to
