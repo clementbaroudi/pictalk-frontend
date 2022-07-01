@@ -90,5 +90,3 @@ sw.*
 *.swp
 
 #Ignore dev Logo
-/static/icon.png
-/static/favicon.ico
