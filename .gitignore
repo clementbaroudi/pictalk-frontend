@@ -88,3 +88,7 @@ sw.*
 
 # Vim swap files
 *.swp
+
+#Ignore dev Logo
+/static/icon.png
+/static/favicon.ico
