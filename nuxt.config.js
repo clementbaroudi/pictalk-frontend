@@ -26,7 +26,7 @@ export default {
     link: [{
       rel: "icon",
       type: "image/x-icon",
-      href: "https://www.pictalk.org/dev_favicon.ico"
+      href: "https://dev.www.pictalk.org/favicon.ico"
     }, {
       rel: 'canonical',
       href: 'https://www.pictalk.org'
@@ -36,12 +36,12 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Pictalk is an app which aims to make speech easier for non-verbal people. Pictalk builds sentences with pictograms you uploaded and pronounces them out loud. You can build virtually any sentence and speak any language !' },
       { hid: 'url', name: 'url', content: 'https://www.pictalk.org' },
-      { hid: 'image', name: 'image', content: 'https://www.pictalk.org/dev_icon.png' },
+      { hid: 'image', name: 'image', content: 'https://dev.www.pictalk.org/icon.png' },
       { hid: 'og-type', property: 'og:type', content: 'website' },
       { hid: 'og-title', property: 'og:title', content: 'Pictalk AAC' },
       { hid: 'og-desc', property: 'og:description', content: 'Pictalk is an app which aims to make speech easier for non-verbal people.' },
       { hid: 'og-url', property: 'og:url', content: 'https://www.pictalk.org' },
-      { hid: 'og-image', property: 'og:image', content: 'https://www.pictalk.org/dev_icon.png' },
+      { hid: 'og-image', property: 'og:image', content: 'https://dev.www.pictalk.org/icon.png' },
     ]
   },
   /*
@@ -180,7 +180,7 @@ export default {
   },
   pwa: {
     icon: {
-      src: "https://www.pictalk.org/dev_icon.png",
+      src: "https://dev.www.pictalk.org/icon.png",
       sizes: [512],
       type: "image/png",
     },
@@ -207,7 +207,7 @@ export default {
       background_color: "#ffffff",
       display: 'standalone',
       icons: [{
-        src: "https://www.pictalk.org/dev_icon.png",
+        src: "https://dev.www.pictalk.org/icon.png",
         sizes: "512x512",
         type: "image/png",
       }],
